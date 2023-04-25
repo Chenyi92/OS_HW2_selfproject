@@ -1,7 +1,7 @@
 # OS_HW2_421
 ## Introduction_the goal
 This program aims to generate Fibonacci sequence in multithreaded way.
-The Fibonacci sequence is the series of numbers 0, 1, 1, 2, 3, 5, 8, … . Formally, it can be expressed as:fib0=0fib1=1fibn=fibn-1+fibn-2
+The Fibonacci sequence is the series of numbers 0, 1, 1, 2, 3, 5, 8, … . Formally, it can be expressed as:fib0=0,fib1=1,fibn=fibn-1+fibn-2
 ## Introduction_detail
 Firstly, the program prompts the user to enter the number of Fibonacci numbers that they want to generate. This input is stored in the variable num.
 
