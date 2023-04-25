@@ -19,13 +19,13 @@ Finally, the main thread prints a new line character to move to the next line in
 
 ## Usage
 To run this program just first type down the following command on terminal:
-'''java
-javac.FibonacciThread.java
-'''
+
+    javac.FibonacciThread.java
+
 then type down the following comman on terminal to execute it:
-'''java
-java.FibonacciThread
-'''
+
+    java.FibonacciThread
+
 
 ## Output
 First, when the terminal show "Enter the number of Fibonacci numbers to generate:", user should enter the number of Fibonacci numbers(input) that they want to generate.
@@ -33,12 +33,12 @@ Then, the program will print the Fibonacci sequence.
 
 Here is an example
 Input:
-'''
-10
-'''
+
+    10
+
 Output:
-'''
-0 1 1 2 3 5 8 13 21 34 
-'''
+
+    0 1 1 2 3 5 8 13 21 34 
+
 
 
