@@ -7,19 +7,19 @@ In this modified program(modified from Q417), we added a lock variable of type t
 
 ## Usage
 Type down the following instruction on terminal to execute:
-'''python
-python3 Q633.py
-'''
+
+    python3 Q633.py
+
 
 ## Output
 This piece of code is used to estimate pi using the Monte Carlo method and prints the estimated value of pi in the terminal. Since the randomly generated points are different each time the program is executed, the output value may vary. However, it typically comes very close to the true value of pi, which is 3.14.
 
 Here are some examples:
 Output:
-'''
-3.140979
-'''
+
+    3.140979
+
 Output:
-'''
-3.142288
-'''
+
+    3.142288
+
